@@ -12,7 +12,7 @@
 
 ***\*（2）输出结果：\****
 
-![1](F:\文件\github\XDU SCE OOP\figure\1.png)
+![image](https://github.com/XDUgaile/XDU-SCE-OOP/blob/main/figure/1.png)
 
 ***\*实验二：继承与派生\****
 
@@ -30,4 +30,4 @@ GradStudent（研究生）类：姓名、性别、年龄、学号、系别、导
 
 其中，研究生类由学生类继承。要求每个类只设立构造函数以及显示类对象数据的成员函数。编写主函数，说明有关类对象，并按照如下输入显示相应信息。
 
-![2](F:\文件\github\XDU SCE OOP\figure\2.png)
+![image](https://github.com/XDUgaile/XDU-SCE-OOP/blob/main/figure/2.png)
