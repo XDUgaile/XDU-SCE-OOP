@@ -1,4 +1,6 @@
-实验一：类
+ # XDU-SCE-OOP
+
+**实验一：类**
 
  
 
@@ -8,7 +10,7 @@
 
 ***\*（2）输出结果：\****
 
-![img](file:///C:\Windows\TEMP\ksohtml24916\wps1.jpg) 
+![image-20230331185845595](C:\Users\盖乐\AppData\Roaming\Typora\typora-user-images\image-20230331185845595.png) 
 
  
 
@@ -28,6 +30,5 @@ GradStudent（研究生）类：姓名、性别、年龄、学号、系别、导
 
 其中，研究生类由学生类继承。要求每个类只设立构造函数以及显示类对象数据的成员函数。编写主函数，说明有关类对象，并按照如下输入显示相应信息。
 
-![img](file:///C:\Windows\TEMP\ksohtml24916\wps2.jpg) 
+![image-20230331185837340](C:\Users\盖乐\AppData\Roaming\Typora\typora-user-images\image-20230331185837340.png)
 
- # XDU-SCE-OOP
